@@ -9,7 +9,7 @@
 #### Electron
 `yarn electron-dev`
 
-## Build
+## Distribution
 
 #### Web
 `yarn build`
